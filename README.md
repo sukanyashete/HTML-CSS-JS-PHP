@@ -1,4 +1,4 @@
-# Static and Dynamic Webpages
+## Static and Dynamic Webpages
 
 # Simple Projects using HTML, CSS, PHP and MySQL
 1. Employee Management System
